@@ -79,7 +79,7 @@ P7, P3, PZ, P4, P8, O1, OZ, O2
 **Additional sensors**
 
 * **EOG:** Horizontal (HEO) and Vertical (VEO) channels were available on the cap but **were not connected** during recording.
-* **Physio:** **ECG** and **GSR/EDA** were **recorded via auxiliary channels**.
+* **Physio:** ECG and GSR/EDA were recorded via auxiliary channels.
 
 ---
 
