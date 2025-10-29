@@ -98,7 +98,7 @@ All preprocessing was performed in **MATLAB R2020b** using **EEGLAB 2023.0** and
 7. **Spherical interpolation** of removed channels
 8. **Epoching:** −200 to 5000 ms relative to stimulus onset
 9. **Baseline correction:** −200 ms pre‑stimulus
-10. **Artifact rejection:** > ±100 µV within a 200 ms moving window (100 ms step)
+10. **Artifact rejection:** Step 1 - absolute amplitude on channels 1–30, epochs rejected if amplitude exceeded ±200 µV within −200 to 5000 ms. Step 2 - FASTER epoch_properties on channels 1–30, epochs rejected if any metric exceeded |z| > 2.
 11. **Condition‑wise averaging** using ERPLAB
 
 ---
