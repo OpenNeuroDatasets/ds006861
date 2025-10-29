@@ -14,8 +14,6 @@ Each participant took part in **two experimental sessions**:
 * **`ses-1`** — Sham stimulation
 * **`ses-2`** — Active stimulation
 
-> **Exception.** Participant `sub-005` completed only `ses-1` due to a recording error during `ses-2`.
-
 The order of sham/active conditions was **counterbalanced** across participants. 
 
 ---
@@ -23,7 +21,7 @@ The order of sham/active conditions was **counterbalanced** across participants.
 ## Participants
 
 * **N = 120** right‑handed, neurologically healthy adults with normal or corrected‑to‑normal vision.
-
+* **Missing data** Participant `sub-005` completed only `ses-1` due to a recording error during `ses-2`.
 ---
 
 ## Experimental Task
