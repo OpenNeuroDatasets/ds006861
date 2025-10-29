@@ -85,7 +85,7 @@ P7, P3, PZ, P4, P8, O1, OZ, O2
 
 All preprocessing was performed in **MATLAB R2020b** using **EEGLAB 2023.0** and **ERPLAB 9.10**. The full, commented pipeline is provided in `code/Preprocessing_EEG.m`.
 
-### Steps (summary)
+### Steps
 
 1. **Band‑pass filter:** 0.1–30 Hz (zero‑phase Hamming‑windowed FIR)
 2. **Downsample** to **250 Hz**
