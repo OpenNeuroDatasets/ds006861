@@ -26,7 +26,7 @@ The order of sham/active conditions was counterbalanced across participants.
 
 ## Experimental Task
 
-Participants completed 120 trials per session, evenly allocated to a 2 (content: social, non-social) × 3 (regulation requirement: watch-neutral, watch-negative, reappraise-negative) factorial design; on each trial they viewed a static image and either watched or reappraised it as instructed.
+Participants completed 120 trials per session, evenly allocated to a 2 (content: social, non-social) × 3 (regulation requirement: watch-neutral, watch-negative, reappraise-negative) factorial design. On each trial, they viewed a static image for 5 s and either watched or reappraised it as instructed. After each image, participants rated its arousal and then valence on separate 9-point scales.
 
 ---
 
