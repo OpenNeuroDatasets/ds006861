@@ -21,7 +21,7 @@ The order of sham/active conditions was **counterbalanced** across participants.
 ## Participants
 
 * **N = 120** right‑handed, neurologically healthy adults with normal or corrected‑to‑normal vision.
-* **Missing data** Participant `sub-005` completed only `ses-1` due to a recording error during `ses-2`.
+* **Missing data:** Participant `sub-005` completed only `ses-1` due to a recording error during `ses-2`.
 ---
 
 ## Experimental Task
