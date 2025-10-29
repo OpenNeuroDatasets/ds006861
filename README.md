@@ -11,8 +11,8 @@ This repository provides EEG recordings and behavioral data from the **Emotion P
 
 Each participant took part in **two experimental sessions**:
 
-* **`ses-1`**** — Sham stimulation**
-* **`ses-2`**** — Active stimulation**
+* **`ses-1`** — Sham stimulation
+* **`ses-2`** — Active stimulation
 
 > **Exception.** Participant `sub-005` completed only `ses-1` due to a recording error during `ses-2`.
 
@@ -112,7 +112,7 @@ Averaged ERP files (`.erp`) for each participant and session after preprocessing
 
 ### `derivatives/side_effects_blinding_effectiveness/`
 
-* `side_effects_blinding_effectiveness_english.csv` — cleaned & translated dataset
+* `side_effects_blinding_effectiveness_english.csv` — _blinding effectiveness and side effects questionnaire
 * `side_effects_blinding_effectiveness_data_dictionary.csv` — data dictionary with variable names and value coding
 
 ### `code/`
