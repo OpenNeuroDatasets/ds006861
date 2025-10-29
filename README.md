@@ -26,7 +26,7 @@ The order of sham/active conditions was counterbalanced across participants.
 
 ## Experimental Task
 
-Participants completed 120 trials per session, split evenly across six conditions defined by stimulus content (social, non-social) and instruction (neutral-watch, negative-watch, negative-reappraise); on each trial, they viewed a static image and either passively watched it or reappraised it as instructed.
+Participants completed 120 trials per session, evenly allocated to a 2 (content: social, non-social) × 3 (regulation requirement: watch-neutral, watch-negative, reappraise-negative) factorial design; on each trial they viewed a static image and either watched or reappraised it as instructed.
 
 ---
 
