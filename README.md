@@ -1,6 +1,6 @@
 # Emotion Processing and Regulation Task (Static Stimuli) — tDCS‑EEG Dataset
 
-This repository provides EEG recordings and behavioral data from the **Emotion Processing and Regulation** task conducted with **transcranial direct current stimulation (tDCS)**. The dataset adheres to the [BIDS](https://bids.neuroimaging.io/) specification for EEG.
+This repository provides EEG recordings and behavioral data from the **Emotion Processing and Regulation** task conducted with **transcranial direct current stimulation (tDCS)**. 
 
 * **Preregistration:** [https://osf.io/qdp3w](https://osf.io/qdp3w)
 * **Preprint:** [https://osf.io/qtm8r](https://osf.io/qtm8r)
