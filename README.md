@@ -14,7 +14,7 @@ Each participant took part in **two experimental sessions**:
 * **`ses-1`** — Sham stimulation
 * **`ses-2`** — Active stimulation
 
-The order of sham/active conditions was **counterbalanced** across participants. 
+The order of sham/active conditions was counterbalanced across participants. 
 
 ---
 
@@ -56,8 +56,8 @@ Stimulation was targeted to the dorsolateral prefrontal cortex (dlPFC) in two al
 
 ### Stimulation Protocol
 
-* **Active:** **2 mA** for **20 min** (with **30 s** ramp‑up)
-* **Sham:** only ramp‑up periods at start and end; **no sustained current**
+* **Active:** 2 mA for 20 min (with 30 s ramp‑up)
+* **Sham:** only ramp‑up periods at start and end; no sustained current
 * **Questionnaires:** After each session, participants completed the **tDCS Sensation Questionnaire** (Polish version: [https://osf.io/ufszr](https://osf.io/ufszr)) to evaluate potential side effects. Additionally, after the final session, they indicated whether they believed each session involved *real*, *sham*, or *I don’t know* stimulation to assess **blinding effectiveness**.
 
 ---
