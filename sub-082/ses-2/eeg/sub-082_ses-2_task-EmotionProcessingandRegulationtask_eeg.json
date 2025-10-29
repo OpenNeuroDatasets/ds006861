@@ -1,0 +1,15 @@
+{
+  "TaskName": "EmotionProcessingandRegulationtask",
+  "Manufacturer": "Compumedics Neuroscan",
+  "ManufacturersModelName": "SynampsRT",
+  "CapManufacturer": "Compumedics Neuroscan",
+  "CapManufacturersModelName": "QuickCap",
+  "PowerLineFrequency": 50,
+  "EEGReference": "between CZ and CPZ",
+  "EEGChannelCount": 34,
+  "MiscChannelCount": 1,
+  "RecordingType": "continuous",
+  "RecordingDuration": 1642.084,
+  "SamplingFrequency": 1000,
+  "SoftwareFilters": "n/a"
+}

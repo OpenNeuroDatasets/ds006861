@@ -1,0 +1,16 @@
+{
+  "Name": "EEG dataset",
+  "Authors": [
+    "Szymon Mąka",
+    "Marta Chrustowicz",
+    "Łukasz Okruszek"
+  ],
+  "License": "",
+  "ReferencesAndLinks": [""],
+  "BIDSVersion": "1.8.0",
+  "HEDVersion": "8.1.0",
+  "GeneratedBy":[ {
+    "Name": "EEG-BIDS",
+    "Version": "10.3"
+  }]
+}
