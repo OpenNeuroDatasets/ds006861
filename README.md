@@ -16,20 +16,19 @@ Each participant took part in **two experimental sessions**:
 
 > **Exception.** Participant `sub-005` completed only `ses-1` due to a recording error during `ses-2`.
 
-The order of sham/active conditions was **counterbalanced** across participants. Each session lasted ~**60 minutes**, including EEG setup and tDCS preparation.
+The order of sham/active conditions was **counterbalanced** across participants. 
 
 ---
 
 ## Participants
 
 * **N = 120** right‑handed, neurologically healthy adults with normal or corrected‑to‑normal vision.
-* **EEG** was successfully recorded for **119 participants** across both sessions (all except `sub-005` in `ses-2`).
 
 ---
 
 ## Experimental Task
 
-Participants performed an **Emotion Processing and Regulation** task with **static emotional images**. On each trial, they either **passively viewed** the image or engaged in **cognitive reappraisal** (regulate). Trial‑wise instructions and image timing were controlled within the task script; details are encoded in the BIDS event files and sidecar JSONs.
+Participants completed 120 trials per session, split evenly across six conditions defined by stimulus content (social, non-social) and instruction (neutral-watch, negative-watch, negative-reappraise); on each trial, they viewed a static image and either passively watched it or reappraised it as instructed.
 
 ---
 
@@ -149,7 +148,4 @@ project_root/
 └── README.md
 ```
 
-## Citation
 
-If you use this dataset, please cite the corresponding OSF preprint:
-(https://osf.io/qtm8r)
