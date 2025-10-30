@@ -50,8 +50,8 @@ Stimulation was targeted to the dorsolateral prefrontal cortex (dlPFC) in two al
 
 **Electrode areas**
 
-* Anodal: **8 cm²**
-* Return: **π cm²**
+* **Anodal:** 8 cm²
+* **Return:** π cm²
 * **Ground:** left earlobe
 
 ### Stimulation Protocol
