@@ -5,8 +5,11 @@
   "stimulation_side": {
     "Description": "Side of tDCS stimulation (Left or Right hemisphere)."
   },
+  "UCLA_R_screening": {
+    "Description": "UCLA Loneliness Scale (Revised) score obtained during screening, used to determine participant eligibility for the study."
+  },
   "UCLA_R": {
-    "Description": "UCLA Loneliness Scale (Revised) score, measuring perceived loneliness."
+    "Description": "UCLA Loneliness Scale (Revised) score, measuring perceived loneliness, administered during the experimental session."
   },
   "SIAS": {
     "Description": "Social Interaction Anxiety Scale score, measuring social interaction anxiety."
@@ -28,5 +31,8 @@
   },
   "Age": {
     "Description": "Participant age in years."
+  },
+  "Group": {
+    "Description": "Loneliness group assignment based on UCLA-R screening score. Values: Low Lonely or High Lonely."
   }
 }
